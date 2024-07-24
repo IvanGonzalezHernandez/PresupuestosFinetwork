@@ -1,7 +1,7 @@
-<h1>Aplicación de Gestión de Ventas</h1>h1>
+<h1>Aplicación de Gestión de Ventas</h1>
 Esta aplicación en Java permite a los usuarios seleccionar un conjunto de productos, calcular la tarifa total, compararla con otra tarifa, e imprimir una factura para el cliente. Está diseñada para optimizar el proceso de ventas, proporcionando una clara comparación de costos y un método sencillo para la facturación.
 
-Características
+<h2>Características</h2>
 Selección de Productos: Navegar y seleccionar productos de una lista predefinida.
 Cálculo de Tarifas: Calcular el costo total de los productos seleccionados.
 Comparativa de Costos: Comparar la tarifa calculada con la tarifa de un competidor.
