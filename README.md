@@ -1,13 +1,16 @@
 <h1>Aplicación de Gestión de Ventas</h1>
 Esta aplicación en Java permite a los usuarios seleccionar un conjunto de productos, calcular la tarifa total, compararla con otra tarifa, e imprimir una factura para el cliente. Está diseñada para optimizar el proceso de ventas, proporcionando una clara comparación de costos y un método sencillo para la facturación.
 
+<h2>Motivo de Creación</h2>
+Actualmente me encuentro trabajando en la tienda física de Finetwork en Castro Urdiales (Cantabria) y para realizar presupuestos a nuestros clientes utilizamos una calculadora en Excel bastante simple y poco atractiva. Debido a esto se me ocurrío la idea de desarrollar un programa simple que permitiese realizar estas funciones de forma más rápida y visual. He de decir que actualmente hemos reemplazado el Excel por esta aplicación.
+
 <h2>Características</h2>
 Selección de Productos: Navegar y seleccionar productos de una lista predefinida.
 Cálculo de Tarifas: Calcular el costo total de los productos seleccionados.
 Comparativa de Costos: Comparar la tarifa calculada con la tarifa de un competidor.
 Generación de Facturas: Generar e imprimir una factura para el cliente.
 
-Uso
+<h2>Uso</h2>
 Selección de Productos:
 
 Navega por la lista de productos disponibles.
@@ -25,5 +28,5 @@ Generación de Facturas:
 Tras confirmar la selección, la aplicación generará una factura.
 Imprime la factura directamente desde la aplicación.
 
-Licencia
-Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo LICENSE para más detalles.
+<h2>Licencia</h2>
+Este proyecto está licenciado bajo la Licencia MIT.
