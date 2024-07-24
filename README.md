@@ -2,7 +2,7 @@
 Esta aplicación en Java permite a los usuarios seleccionar un conjunto de productos, calcular la tarifa total, compararla con otra tarifa, e imprimir una factura para el cliente. Está diseñada para optimizar el proceso de ventas, proporcionando una clara comparación de costos y un método sencillo para la facturación.
 
 <h2>Motivo de Creación</h2>
-Actualmente me encuentro trabajando en la tienda física de Finetwork en Castro Urdiales (Cantabria) y para realizar presupuestos a nuestros clientes utilizamos una calculadora en Excel bastante simple y poco atractiva. Debido a esto se me ocurrío la idea de desarrollar un programa simple que permitiese realizar estas funciones de forma más rápida y visual. He de decir que actualmente hemos reemplazado el Excel por esta aplicación.
+Actualmente me encuentro trabajando en la tienda física de Finetwork en Castro Urdiales (Cantabria) y para realizar presupuestos a nuestros clientes utilizamos una calculadora en Excel bastante simple y poco atractiva. Debido a esto se me ocurrío la idea de desarrollar un programa que permitiese realizar estas funciones de forma más rápida y visual. He de decir que actualmente hemos reemplazado el Excel por el aplicativo informático.
 
 <h2>Características</h2>
 Selección de Productos: Navegar y seleccionar productos de una lista predefinida.
